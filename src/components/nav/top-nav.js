@@ -18,10 +18,12 @@ const TopNav = () => {
           <h3>COACH</h3>
         </div>
         <div className="flexed">
-          <h3>Some stuff</h3>
-          <h3>Some stuff</h3>
+          <h3>EXERCISE</h3>
+          <h3>NUTRITION</h3>
+          <h3>ACTIVITY</h3>
+          <h3>SLEEP</h3>
         </div>
-        <button className="second-row-button">Button</button>
+        <button className="second-row-button">SIGN UP</button>
       </div>
     </section>
   );
